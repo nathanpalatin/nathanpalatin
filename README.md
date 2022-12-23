@@ -10,8 +10,7 @@
 
 - 👨‍💻 More at [nathanpalatin.dev](https://nathanpalatin.dev)
 
-
-<br><br>
+<br>
 
 🛠 &nbsp;Tech Stack
 
@@ -26,7 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br><br>
+<br>
 
  ⚙️ &nbsp;GitHub Analytics
 
@@ -36,11 +35,9 @@
 </p>
 
 
-<br><br>
+<br>
 
 ## Contact
-
-
 
 <a href="https://linkedin.com/in/nathanpalatin" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-nathanpalatin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
