@@ -30,9 +30,9 @@
 
  ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<img width="300em" src="https://github-readme-stats.vercel.app/api?username=nathanpalatin&show_icons=true&theme=vision-friendly-dark" alt="nathan palatin's stats"/>
-<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpalatin&layout=compact&theme=vision-friendly-dark" alt="nathan palatin's most languages"/>
+<p align="left">
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=nathanpalatin&show_icons=true&theme=vision-friendly-dark" alt="nathan palatin's stats"/>
+<img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpalatin&layout=compact&theme=vision-friendly-dark" alt="nathan palatin's most languages"/>
 </p>
 
 
