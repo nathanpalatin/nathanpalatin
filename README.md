@@ -4,7 +4,7 @@
 
 - 🔥 Web and Mobile Developer, Learning something everyday about coding
 
-- 🔭 I’m currently working at [Livenbe](https://livenbe.com/)
+- 🔭 I’m currently working at [Growfy](https://growfy.digital/)
 
 - ⚡ Fun fact **Schumacher 😜**
 
@@ -45,8 +45,5 @@
 </a>
 <a href="https://instagram.com/nathanpalatin" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-nathanpalatin-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/@nathanpalatin" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-nathanpalatin-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
