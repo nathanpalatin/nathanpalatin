@@ -4,7 +4,7 @@
 
 - 🔥 Web and Mobile Developer, Learning something everyday about coding
 
-- 🔭 I’m currently working at [Growfy](https://growfy.digital/)
+- 🔭 I’m currently working at [Interfriends DEV]
 
 - ⚡ Fun fact **Schumacher 😜**
 
