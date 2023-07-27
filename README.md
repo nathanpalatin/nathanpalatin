@@ -4,8 +4,6 @@
 
 - 🔥 Web and Mobile Developer, Learning something everyday about coding
 
-- 🔭 I’m currently working at [Interfriends DEV]
-
 - ⚡ Fun fact **Schumacher 😜**
 
 - 👨‍💻 More at [nathanpalatin.dev](https://nathanpalatin.dev)
