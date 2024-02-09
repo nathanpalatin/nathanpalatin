@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanpalatin&color=yellow" alt="Profile views" /> </p>
 
 
-- 🔥 Web and Mobile Developer, Learning something everyday about coding
+- 🔥 Hi there, I am Senior Developer and I keep going learning something everyday about coding
 
 - ⚡ Fun fact **Schumacher 😜**
 
