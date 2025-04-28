@@ -16,6 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-007ACC?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![NestJs](https://img.shields.io/badge/Nest.Js-007ACC?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![SwiftUI](https://img.shields.io/badge/Swift-007ACC?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![NextJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
