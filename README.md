@@ -4,8 +4,6 @@
 
 - 🔥 Hi there, I am Software Developer and I keep going learning something everyday about coding
 
-- ⚡ Fun fact **Schumacher 😜**
-
 - 👨‍💻 More at [nathanpalatin.dev](https://nathanpalatin.dev)
 
 <br>
@@ -25,9 +23,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
 <br>
-
-![Language Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpalatin&theme=blue-green)&nbsp;
-
 
 ## Contact
 
